@@ -33,14 +33,5 @@ public class A {
 	public void setA3(String a3) {
 		A3 = a3;
 	}
-
-	public String getA4() {
-		return A4;
-	}
-	public void setA4(String a4) {
-		A4 = a4;
-	}
-	
-	
 	
 }

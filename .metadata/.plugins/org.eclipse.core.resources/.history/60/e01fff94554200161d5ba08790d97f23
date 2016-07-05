@@ -37,6 +37,7 @@ public class A {
 	public String getA4() {
 		return A4;
 	}
+
 	public void setA4(String a4) {
 		A4 = a4;
 	}

@@ -7,9 +7,6 @@ public class A {
 	private String A3;
 	
 	//Métodos
-	public float soma(){
-		return A1 + A2;
-	}
 	
 	//Getters and Setters
 	public int getA1() {

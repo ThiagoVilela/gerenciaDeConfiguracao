@@ -1,0 +1,7 @@
+package com.thiago;
+
+public class B {
+	//Atributos
+	private int B1;
+	private float B2;
+}

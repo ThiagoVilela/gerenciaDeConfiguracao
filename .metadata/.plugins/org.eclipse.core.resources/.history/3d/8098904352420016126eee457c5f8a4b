@@ -5,7 +5,6 @@ public class A {
 	private int A1;
 	private float A2;
 	private String A3;
-	
 	//Métodos
 	
 	//Getters and Setters
@@ -29,5 +28,6 @@ public class A {
 	public void setA3(String a3) {
 		A3 = a3;
 	}
+	
 	
 }

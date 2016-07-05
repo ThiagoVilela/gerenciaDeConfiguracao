@@ -1,0 +1,12 @@
+package com.thiago;
+
+public class A {
+	//Atributos
+	private int A1;
+	private float A2;
+	
+	//Métodos
+	
+	//Getters and Setters
+	
+}
